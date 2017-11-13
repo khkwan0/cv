@@ -14,7 +14,7 @@ class Cv extends Component {
     fetch('http://23.239.1.81:2001/api/cv', 
       {
         method: 'GET',
-        credemtials: 'include'
+        credentials: 'include'
       }
     )
     .then((result) => {return result.json() })

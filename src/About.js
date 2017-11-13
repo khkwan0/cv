@@ -21,10 +21,11 @@ class About extends Component {
               <li>React Bootstrap</li>
               <li>ES6 style javascript</li>
               <li>Dockerized</li>
-              <li>The content originates from a REST API call written in GoLang</li>
+              <li>A little bit of content originates from a REST API call written in GoLang</li>
               <li>The content storage utilizes MongoDB.</li>
               <li>While using a GO API to deliver content may be over engineered for this website, it is merely demonstrative in nature.</li>
               <li>Ubuntu 16.0.4</li>
+              <li><a href="https://github.com/khkwan0/cv">Github source</a></li>
             </ul>
           </RB.Row>
         </RB.Grid>
